@@ -1,6 +1,14 @@
 # VAE-Transformer
 GENERATING PARAPHRASED SENTENCES USING UNSUPERVISED TRAINING WITH VARIATIONAL AUTOENCODER MODELS
 
+## FOLDER ORGANIZATION
+
+      data---
+            |
+            -- corpus.train.txt
+            |
+            -- corpus.valid.txt
+
 ## MODEL TRAINING
 
 ```bash
