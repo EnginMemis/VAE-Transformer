@@ -1,2 +1,2 @@
 # VAE-Transformer
-Generating semantically similar sentences using unsupervised training with Variational Autoencoders
+GENERATING PARAPHRASED SENTENCES USING UNSUPERVISED TRAINING WITH VARIATIONAL AUTOENCODER MODELS
