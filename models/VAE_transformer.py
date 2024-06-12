@@ -7,7 +7,6 @@ from models.masking import *
 from utils.model_utils import *
 import random
 
-
 class VariationalTransformer(nn.Module):
     def __init__(self, vocab_size, d_model, d_k, d_v, d_word_vec, d_inner, n_layers, n_head, dropout, 
                  latent_size, n_position, max_sequence_length, pad_idx, device):
